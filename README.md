@@ -24,7 +24,7 @@ This library is designed for modern frontend development, ready for production, 
 
 A live Storybook preview of all components is available once deployed:
 
-**Storybook Preview**: 
+**Storybook Preview**: https://storybook-assessment.vercel.app/
 
 ---
 
